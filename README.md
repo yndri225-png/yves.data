@@ -2,8 +2,7 @@
 
 ### Analyste de données junior · Informatique + Économie · Abidjan, Côte d'Ivoire
 
-> Je transforme des données brutes en décisions claires. Développeur de formation, économiste par spécialisation : je sais **construire** les outils et **interpréter** les chiffres.
-
+> Je transforme des données brutes en décisions claires. Développeur de formation, économiste par spécialisation 
 ---
 
 ## 🎯 À propos
@@ -45,8 +44,7 @@ Cette double compétence me permet de dialoguer aussi bien avec les équipes tec
 Modélisation et interprétation de données macroéconomiques à l'aide d'outils statistiques, avec restitution sous forme de rapport et de support visuel devant un jury.
 
 - **Compétences mobilisées :** statistiques appliquées, modélisation, storytelling de données
-- 🔗 **Code / notebook :** `[lien vers le dépôt]`
-- 📄 **Rapport :** `[lien vers le rapport]`
+
 
 ---
 
@@ -56,9 +54,8 @@ Mission réalisée au sein d'une équipe opérationnelle :
 - Collecte, nettoyage et mise en forme de données issues de **plusieurs sources internes**
 - Construction de **tableaux de bord de suivi** (Excel / Power BI) pour l'équipe opérationnelle
 - Analyses statistiques ponctuelles et **synthèses rédigées pour la direction**
-- Participation à l'**automatisation de rapports récurrents**, réduisant le temps de traitement manuel `[ajouter le gain chiffré : ex. "de X h à Y min par semaine"]`
+- Participation à l'**automatisation de rapports récurrents**, réduisant le temps de traitement manuel 
 
-> 🔒 Données confidentielles : une version anonymisée du dashboard est disponible ici → `[lien ou capture d'écran]`
 
 ---
 
@@ -70,8 +67,8 @@ Projet de classification d'images d'IRM cérébrales.
 - Développement d'une **interface de visualisation** des résultats et des zones d'intérêt détectées
 - Présentation des résultats (rapport + support visuel) devant un jury
 
-**Stack :** Python · `[bibliothèques utilisées : ex. TensorFlow / PyTorch / scikit-learn]`
-🔗 **Code :** `[lien vers le dépôt]`
+**Stack :** Python · `[bibliothèques utilisées :  TensorFlow / PyTorch / scikit-learn]`
+
 
 ---
 
@@ -111,7 +108,6 @@ Projet réalisé dans le cadre du BTS Informatique, de la conception à la mise 
 ## 📬 Me contacter
 
 - 📧 **E-mail :** yndri225@gmail.com
-- 💼 **LinkedIn :** `[votre lien LinkedIn]`
-- 🌐 **Portfolio :** `[votre lien]`
+
 
 *Ouvert aux opportunités d'analyste de données junior, de business analyst ou de poste data en entreprise.*
